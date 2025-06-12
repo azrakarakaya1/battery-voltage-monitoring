@@ -1,4 +1,4 @@
-**Project Description**
+##Project Description
 
 Our project, PIC Based Car Battery Voltage Monitoring System, is designed to measure and display the voltage 
 level of a car battery in real time. The purpose of the system is to help users monitor their car battery health 
@@ -12,6 +12,7 @@ user to see.
 When powered on, the system continuously reads the battery voltage, converts it using the ADC, and updates the 
 LCD display. This allows the user to see the real-time voltage status of the car battery.
 
+---
 
 ****System Workflow****
 
@@ -23,6 +24,7 @@ the ADC interface.
 4. Output: The voltage is displayed on an LCD screen, and if necessary, a buzzer or warning
 LED is activated.
 
+---
 
 ****Interfaces Used****
 
@@ -33,6 +35,7 @@ ADC (Analog-to-Digital Converter):
 ▪ Converts the analog voltage from the battery into a digital value that can be processed by
 the microcontroller.
 
+---
 
 **Summary**
 
@@ -42,3 +45,9 @@ voltage and show the result on an LCD screen. It reads the battery voltage using
 the LCD. The LCD works in 4-bit mode, and the timing is controlled using simple delays (like
 waiting 1 second), not timers. The program updates the screen only when the value changes, so it
 doesn’t flicker.
+
+---
+
+**Circuit Design & Output**
+
+[Result](result.jpg)
