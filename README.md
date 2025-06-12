@@ -34,6 +34,8 @@ ADC (Analog-to-Digital Converter):
 the microcontroller.
 
 
+**Summary**
+
 This program runs on a PIC16F877A microcontroller and is used to check a car battery’s
 voltage and show the result on an LCD screen. It reads the battery voltage using an analog input
 (RA0/AN0), calculates the actual voltage, and displays both the voltage and battery condition on
