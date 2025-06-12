@@ -50,4 +50,4 @@ doesn’t flicker.
 
 **Circuit Design & Output**
 
-[Result](result.jpg)
+[Result](result.jpeg)
