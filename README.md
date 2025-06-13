@@ -1,4 +1,4 @@
-## Project Description
+# Project Description
 
 Our project, PIC Based Car Battery Voltage Monitoring System, is designed to measure and display the voltage 
 level of a car battery in real time. The purpose of the system is to help users monitor their car battery health 
